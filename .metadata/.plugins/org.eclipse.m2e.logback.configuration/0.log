@@ -676,3 +676,4 @@ java.io.FileNotFoundException: C:\Users\fare1\Documents\GitHub\Team2_Project_joi
 	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2354)
 	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.lambda$1(IDEWorkbenchAdvisor.java:554)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+2024-12-10 15:05:15,878 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
